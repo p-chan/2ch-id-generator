@@ -8,14 +8,14 @@
 $ npm install 2ch-id-generator
 ```
 
-```
+```javascript
 const idGenerator = require('2ch-id-generator')
 idGenerator() // -> bVBwT1fBg
 ```
 
 ## API
 
-```
+```javascript
 const idGenerator = require('2ch-id-generator')
 idGenerator(options)
 ```
