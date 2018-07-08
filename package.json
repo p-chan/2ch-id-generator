@@ -1,0 +1,18 @@
+{
+  "name": "2ch-id-generator",
+  "version": "1.0.0",
+  "description": "A generator for anonymous user id like as 2ch",
+  "keywords": [
+    "2ch",
+    "5ch"
+  ],
+  "homepage": "https://github.com/2ch-id-generator",
+  "bugs": "https://github.com/2ch-id-generator/issues",
+  "license": "MIT",
+  "author": "P-Chan",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/2ch-id-generator.git"
+  }
+}
