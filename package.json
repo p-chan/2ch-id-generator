@@ -6,13 +6,13 @@
     "2ch",
     "5ch"
   ],
-  "homepage": "https://github.com/2ch-id-generator",
-  "bugs": "https://github.com/2ch-id-generator/issues",
+  "homepage": "https://github.com/p-chan/2ch-id-generator",
+  "bugs": "https://github.com/p-chan/2ch-id-generator/issues",
   "license": "MIT",
   "author": "P-Chan",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/2ch-id-generator.git"
+    "url": "https://github.com/p-chan/2ch-id-generator.git"
   }
 }
